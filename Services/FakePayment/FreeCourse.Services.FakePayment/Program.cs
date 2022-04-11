@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FreeCourse.Services.Order.API
+namespace FreeCourse.Services.FakePayment
 {
     public class Program
     {
